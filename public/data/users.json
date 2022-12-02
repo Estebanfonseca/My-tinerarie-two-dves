@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Nathanael",
+            "lastName": "Styles",
+            "age": 43,
+            "email": "hbnathanael1@yopmail.com",
+            "password": "nathanstyles",
+            "code": "useric1",
+            "verified": true,
+            "logged": true
+        },
+        {
+            "id": 2,
+            "name": "Shawn",
+            "lastName": "Mims",
+            "age": 19,
+            "email": "almims11@yopmail.com",
+            "password": "shawnmims",
+            "code": "useric2",
+            "verified": true,
+            "logged": true
+        },
+        {
+            "id": 3,
+            "name": "Herbert",
+            "lastName": "Militello",
+            "age": 33,
+            "email": "glmilitello11@yopmail.com",
+            "password": "herbmilitello",
+            "code": "useric3",
+            "verified": true,
+            "logged": true
+        },
+        {
+            "id": 4,
+            "name": "Mariane",
+            "lastName": "Flynn",
+            "age": 58,
+            "email": "axflynn23@yopmail.com",
+            "password": "maryflynn",
+            "code": "useric4",
+            "verified": true,
+            "logged": true
+        }
+    ]
+}
